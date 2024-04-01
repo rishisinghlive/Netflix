@@ -104,3 +104,5 @@ order by cnt desc
 select type, COUNT(type) as cnt
 from Netflix
 group by type
+
+-- End
